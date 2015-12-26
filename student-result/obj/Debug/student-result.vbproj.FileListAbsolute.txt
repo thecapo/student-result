@@ -1,0 +1,24 @@
+C:\Users\cawo\Desktop\april 28\student-result\student-result\bin\Debug\student-result.exe.config
+C:\Users\cawo\Desktop\april 28\student-result\student-result\bin\Debug\student-result.exe
+C:\Users\cawo\Desktop\april 28\student-result\student-result\bin\Debug\student-result.pdb
+C:\Users\cawo\Desktop\april 28\student-result\student-result\bin\Debug\student-result.xml
+C:\Users\cawo\Desktop\april 28\student-result\student-result\obj\Debug\student_result.Form1.resources
+C:\Users\cawo\Desktop\april 28\student-result\student-result\obj\Debug\student_result.Resources.resources
+C:\Users\cawo\Desktop\april 28\student-result\student-result\obj\Debug\student-result.vbproj.GenerateResource.Cache
+C:\Users\cawo\Desktop\april 28\student-result\student-result\obj\Debug\student-result.exe
+C:\Users\cawo\Desktop\april 28\student-result\student-result\obj\Debug\student-result.xml
+C:\Users\cawo\Desktop\april 28\student-result\student-result\obj\Debug\student-result.pdb
+F:\april 28\student-result\student-result\bin\Debug\student-result.exe.config
+F:\april 28\student-result\student-result\obj\Debug\student-result.exe
+F:\april 28\student-result\student-result\obj\Debug\student-result.xml
+F:\april 28\student-result\student-result\obj\Debug\student-result.pdb
+F:\april 28\student-result\student-result\bin\Debug\student-result.exe
+F:\april 28\student-result\student-result\bin\Debug\student-result.pdb
+F:\april 28\student-result\student-result\bin\Debug\student-result.xml
+F:\april 28\student-result\student-result\obj\Debug\student_result.Form1.resources
+F:\april 28\student-result\student-result\obj\Debug\student_result.Resources.resources
+F:\april 28\student-result\student-result\obj\Debug\student-result.vbproj.GenerateResource.Cache
+D:\TERM 1\april 28\student-result\student-result\bin\Debug\student-result.exe.config
+D:\TERM 1\april 28\student-result\student-result\obj\Debug\student-result.exe
+D:\TERM 1\april 28\student-result\student-result\obj\Debug\student-result.xml
+D:\TERM 1\april 28\student-result\student-result\obj\Debug\student-result.pdb
